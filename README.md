@@ -1,6 +1,6 @@
 # MyPitch
 ## Use the Pitch of voice to recognize man or woman
-## 使用基音频率进行男女声识别
+## 使用基音频率进行男女声在线识别
 
 ### (1)PitchUI.m<br> 
 主要的界面GUI程序<br> 
